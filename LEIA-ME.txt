@@ -1,0 +1,9 @@
+MELK BARBEARIA - Landing page
+
+Como usar: abra o index.html no navegador. Ele é autocontido (logo e fachada já estão embutidos).
+Para hospedar: envie o index.html para qualquer hospedagem (Netlify, Vercel, GitHub Pages, etc.).
+public/images/: imagens originais preservadas (logo, fachada e tabela de preços).
+
+Para editar:
+- WhatsApp e endereço: procure por "const WA" e "const ADDR" no final do index.html.
+- Preços: procure por "const S=[" no final do index.html.
